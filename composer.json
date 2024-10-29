@@ -1,0 +1,36 @@
+{
+    "name": "mlocati/pixel2to9",
+    "description": "A Concrete package that lets you convert Concrete CIF data from Pixel 2 to Pixel 9.",
+    "type": "concrete5-package",
+    "keywords": [
+        "concrete",
+        "concrete cms",
+        "concrete5",
+        "addon",
+        "add-on",
+        "extension",
+        "pixel",
+        "pixel2",
+        "pixel9",
+        "xml"
+    ],
+    "homepage": "https://github.com/mlocati/pixel2to9",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michele Locati",
+            "email": "michele@locati.it",
+            "homepage": "https://mlocati.github.io/",
+            "role": "Author"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/mlocati/pixel2to9/issues",
+        "source": "https://github.com/mlocati/pixel2to9"
+    },
+    "require": {
+        "php": ">= 7.4",
+        "ext-dom": "*",
+        "concrete5/core": ">=8.5.0"
+    }
+}

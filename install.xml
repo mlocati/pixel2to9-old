@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<concrete5-cif version="1.0">
+
+    <singlepages>
+        <page package="pixel2to9" path="/dashboard/pages/cif-pixel2to9" name="Convert Pixel CIF" description="">
+        </page>
+    </singlepages>
+
+</concrete5-cif>
