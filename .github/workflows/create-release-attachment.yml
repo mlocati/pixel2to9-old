@@ -25,3 +25,4 @@ jobs:
         with:
           remove-files: |
             composer.json
+            README.md
